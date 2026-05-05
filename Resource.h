@@ -1,12 +1,12 @@
 ﻿//{{NO_DEPENDENCIES}}
 // Microsoft Visual C++ 生成的包含文件。
-// 由 TimeRewindGame.rc 使用
+// 由 TimeRewindGame1.rc 使用
 //
 #define IDR_MAINFRAME					128
 #define IDM_ABOUTBOX					0x0010
 #define IDD_ABOUTBOX					100
 #define IDS_ABOUTBOX					101
-#define IDD_TIMEREWINDGAME_DIALOG				102
+#define IDD_TIMEREWINDGAME1_DIALOG				102
 
 // 新对象的下一组默认值
 //
